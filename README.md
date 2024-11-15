@@ -2,3 +2,4 @@
 Bitcoin Trading Bot
 
 Kết quả thử nghiệm: lỗ ~60k.
+Trải nghiệm đáng nhớ ~~.
